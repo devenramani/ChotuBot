@@ -1,0 +1,60 @@
+C:\Projects\Chotu\Chotu\bin\Bot Application1.dll.config
+C:\Projects\Chotu\Chotu\bin\Bot Application1.dll
+C:\Projects\Chotu\Chotu\bin\Bot Application1.pdb
+C:\Projects\Chotu\Chotu\bin\Autofac.dll
+C:\Projects\Chotu\Chotu\bin\Chronic.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.Bot.Builder.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.Bot.Connector.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.IdentityModel.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.IdentityModel.Extensions.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.Office.Client.Policy.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.Office.Client.TranslationServices.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.Office.SharePoint.Tools.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.SharePoint.Client.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.SharePoint.Client.Publishing.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.SharePoint.Client.Search.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Projects\Chotu\Chotu\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Projects\Chotu\Chotu\bin\Newtonsoft.Json.dll
+C:\Projects\Chotu\Chotu\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Chotu\Chotu\bin\System.Net.Http.Formatting.dll
+C:\Projects\Chotu\Chotu\bin\System.Web.Http.dll
+C:\Projects\Chotu\Chotu\bin\System.Web.Http.WebHost.dll
+C:\Projects\Chotu\Chotu\bin\Autofac.xml
+C:\Projects\Chotu\Chotu\bin\Microsoft.Bot.Builder.xml
+C:\Projects\Chotu\Chotu\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Projects\Chotu\Chotu\bin\Microsoft.Bot.Connector.xml
+C:\Projects\Chotu\Chotu\bin\Microsoft.IdentityModel.Logging.xml
+C:\Projects\Chotu\Chotu\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Projects\Chotu\Chotu\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Projects\Chotu\Chotu\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Projects\Chotu\Chotu\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Projects\Chotu\Chotu\bin\Newtonsoft.Json.xml
+C:\Projects\Chotu\Chotu\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Projects\Chotu\Chotu\bin\System.Net.Http.Formatting.xml
+C:\Projects\Chotu\Chotu\bin\System.Web.Http.xml
+C:\Projects\Chotu\Chotu\bin\System.Web.Http.WebHost.xml
+C:\Projects\Chotu\Chotu\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Chotu\Chotu\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Chotu\Chotu\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Chotu\Chotu\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Chotu\Chotu\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Chotu\Chotu\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Chotu\Chotu\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Chotu\Chotu\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Chotu\Chotu\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Chotu\Chotu\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Projects\Chotu\Chotu\obj\Debug\Bot Application1.dll
+C:\Projects\Chotu\Chotu\obj\Debug\Bot Application1.pdb
+C:\Projects\Chotu\Chotu\obj\Debug\Chotu.csprojResolveAssemblyReference.cache
